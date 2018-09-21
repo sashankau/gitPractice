@@ -1,4 +1,5 @@
-These are changes cfromcommand line
+
+These are changes cfromcommand line and after pull
 
 
 
@@ -6,4 +7,5 @@ These are changes cfromcommand line
 
 
 jgbikjhbn;lk';,
+
 
