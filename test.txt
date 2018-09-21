@@ -1,11 +1,2 @@
 
-These are changes cfromcommand line and after pull
-
-
-
-
-
-
-jgbikjhbn;lk';,
-
-
+This is a test for pushing the tags
