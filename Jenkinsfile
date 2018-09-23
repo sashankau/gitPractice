@@ -1,12 +1,11 @@
-pipeline{
-agent any
-  {
-    stages{
-      stage(''first'){
-            echo "Sahsank"
+pipeline {
+    agent any
+   
+    stages {
+        stage('First Stage') {
+            steps {
+                echo "Sashank"
             }
-      
-      }
+        }
     }
-  }
 }
